@@ -92,6 +92,12 @@ _Can Machines Think?: A Wittgensteinian Approach to the Fundamental Problem in t
 - 11th British Wittgenstein Society Conference
 - New College of the Humanities, London
 
+### 2020
+
+_The Concept of Learning in Artificial Intelligence_
+- NordPhil
+- University of Copenhagen
+
 ---
 
 # Teaching
