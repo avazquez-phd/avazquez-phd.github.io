@@ -28,9 +28,6 @@ In the last section we introduce a descriptive use of psychological language in 
 One of the outcomes of this study is that the analysis of meaningful uses of psychological language in AI in terms of ‘secondary use’ helps show that the problem ‘Can machines think?’ might give rise to a false dichotomy that does not necessarily entail a binary set of answers.
 </details>
 
-
-
-
 ### Journal articles
 
 'Philosophy as a Language-Game? An Appoach to Wittgenstein’s Philosophical Methodology' (2022). In: Jakub Mácha & Herbert Hrachovec (eds.), _Platonism: Contributions of the 43rd International Wittgenstein Symposium_. ALWS. [Published version.](https://www.researchgate.net/publication/404225835_Philosophy_as_a_Language-Game_An_Appoach_to_Wittgenstein's_Philosophical_Methodology)
@@ -39,7 +36,6 @@ One of the outcomes of this study is that the analysis of meaningful uses of psy
 <summary>A B S T R A C T</summary>
 Wittgenstein introduces the notion of language-game as a methodological device, which aims to describe and clarify language use. This term allows us to regard language as internally related to action (PI 2009: 7). As Wittgenstein suggests, we can consider different human practices through the lens of this notion for clarificatory purposes (PI 2009: 5). This paper explores to what extent philosophy can represent a language-game. The first section presents the problem by showing that if philosophy has not articulated its own terminology, there would be no specific vocabulary related to a particular set of actions that constitutes the language-game of this practice. Section two expands on the notion of language-game and explains why science accords with this model in contrast to more mainstream philosophical approaches. The final section asks whether a Wittgensteinian approach to philosophy represents a language-game. By rejecting a binary answer to this question, this analysis will shed light on a crucial aspect of Wittgenstein’s philosophy, namely, that this approach can be understood as the practice that enables the understanding and facilitates the development of grammatically complex language-games (PI 2009: 125–126).
 </details>
-
 
 ### MPhil Dissertation
 
@@ -52,7 +48,45 @@ The object of this investigation is to analyze the application of the concept of
 
 # Talks
 
+### 2026
 
+_Psychological Language and Machine Behaviour_
+- Joint Session of the Aristotelian Society and the Mind Association
+- University of Reading, UK
+
+_Aristotle and Wittgenstein on Causation_
+- Wittgenstein and Ancient Philosophy
+- National and Kapodistrian University of Athens 
+
+_El lenguaje psicológico en la inteligencia artificial_
+- Instituto de Psicología y Educación, Universidad Veracruzana
+
+### 2025
+
+_Understanding Machine Behaviour_
+- Young Network for Wittgensteinian Philosophy
+- Ca'Foscari University of Venice 
+
+### 2024
+
+_Psychological Language and Artificial Patterns of Behaviour_
+- Salzburg Conference for Young Analytic Philosophy
+- University of Salzburg
+
+_Psychological Language and the Problem of Artificial Behaviour_
+- MindGrad, Graduate Conference in Philosophy of Mind
+- University of Warwick
+
+### 2023
+
+_On Machine Decision-Making_
+- Clinical Scientific Computing at Guy’s & St. Thomas NHS Foundation Trust
+
+### 2022
+
+_Can Machines Think?: A Wittgensteinian Approach to the Fundamental Problem in the Philosophy of AI_
+- 11th British Wittgenstein Society Conference
+- New College of the Humanities, London
 
 
 # Teaching
