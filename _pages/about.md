@@ -102,13 +102,4 @@ _The Concept of Learning in Artificial Intelligence_
 
 # Teaching
 
-### 2025
-
-### 2024
-
-### 2023
-
-
-
-
-
+_(In progress)_
