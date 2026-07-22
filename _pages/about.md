@@ -17,6 +17,15 @@ Since 2019 I am an editorial assistant in the _Nordic Wittgenstein Review_.
 
 ## Book chapters
 
+## Journal articles
+
+## MPhil Dissertation
+
+# Talks
+
+# Teaching
+
+
 
 
 A data-driven personal website
