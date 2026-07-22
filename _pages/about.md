@@ -47,7 +47,7 @@ The object of this investigation is to analyze the application of the concept of
 </details>
 
 # Talks
-
+======
 ### 2026
 
 _Psychological Language and Machine Behaviour_
@@ -90,7 +90,7 @@ _Can Machines Think?: A Wittgensteinian Approach to the Fundamental Problem in t
 
 
 # Teaching
-
+======
 
 
 
