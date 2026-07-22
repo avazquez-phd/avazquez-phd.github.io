@@ -13,6 +13,8 @@ I work under the supervision of [Genia Schönbaumsfeld](https://geniaschonbaumsf
 
 Since 2019 I am an editorial assistant in the _Nordic Wittgenstein Review_.
 
+---
+
 # Publications
 
 ### Book chapters
@@ -45,6 +47,8 @@ Wittgenstein introduces the notion of language-game as a methodological device, 
 <summary>A B S T R A C T</summary>
 The object of this investigation is to analyze the application of the concept of learning to machines and software as displayed in Artiﬁcial Intelligence (AI). This ﬁeld has been approached from diﬀerent philosophical perspectives. AI, however, has not yet received enough attention from a Wittgensteinian angle, a gap this thesis aims to help bridge. First we describe the use of the concept of learning in natural language by means of a familiar and of a less familiar case of human learning. This is done to give us a general idea about the meaning of this concept. By building two basic machine learning algorithms, we introduce one of the technical meanings of “learning” in computer science, i.e. the use of this concept in machine learning. Based on a study and comparison between both uses, the one in ordinary language and the one in machine learning, we conclude that both usages exemplify one and the same “family resemblance” concept of learning. We apply this insight further in a critical discussion of two speciﬁc philosophical positions about the applicability of psychological or mental concepts to software and hardware, especially in AI. One of the contributions of this investigation is that the use of mental concepts concerning machines does not imply the ascription of a mind.
 </details>
+
+---
 
 # Talks
 
@@ -88,6 +92,7 @@ _Can Machines Think?: A Wittgensteinian Approach to the Fundamental Problem in t
 - 11th British Wittgenstein Society Conference
 - New College of the Humanities, London
 
+---
 
 # Teaching
 
