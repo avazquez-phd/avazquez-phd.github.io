@@ -13,6 +13,10 @@ I work under the supervision of [Genia Schönbaumsfeld](https://geniaschonbaumsf
 
 Since 2019 I am an editorial assistant in the _Nordic Wittgenstein Review_.
 
+# Publications
+
+## Book chapters
+
 
 
 A data-driven personal website
