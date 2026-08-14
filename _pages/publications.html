@@ -5,32 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Journal Articles
 
-{% include base_path %}
+1. **Paper Title Number 1**  
+   Your Name, You. (2009). *Journal 1*, 1(1).  
+   [[Paper](https://github.io)] [[Slides](https://github.io)] [[BibTeX](https://github.io)]
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
+2. **Paper Title Number 2**  
+   Your Name, You. (2015). *Journal 2*, 5(2).  
+   [[Paper](https://link-to-paper.pdf)]
 
