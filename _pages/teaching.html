@@ -5,8 +5,44 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+  .teaching-section { font-size: 1.4em; font-weight: bold; margin-top: 30px; margin-bottom: 15px; border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+  .course-list { list-style: none; padding: 0; margin: 0; }
+  .course-item { margin-bottom: 20px; line-height: 1.5; }
+  .course-title { font-weight: bold; font-size: 1.1em; display: block; color: #111; }
+  .course-role { font-style: italic; color: #444; display: block; }
+  .course-inst { color: #666; display: block; font-size: 0.95em; }
+  .course-meta { font-size: 0.9em; color: #777; margin-top: 2px; display: block; }
+</style>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-section">Current & Recent Courses</div>
+<ul class="course-list">
+  
+  <li class="course-item">
+    <span class="course-title">Introduction to Philosophy of AI</span>
+    <span class="course-role">Graduate Teaching Assistant / Lecturer</span>
+    <span class="course-inst">University Name, Department Name</span>
+    <span class="course-meta">Autumn 2026 — Undergraduate Level</span>
+  </li>
+
+  <li class="course-item">
+    <span class="course-title">Logic and Critical Thinking</span>
+    <span class="course-role">Seminar Leader</span>
+    <span class="course-inst">University Name, Department Name</span>
+    <span class="course-meta">Spring 2026 — Undergraduate Level</span>
+  </li>
+
+</ul>
+
+<div class="teaching-section">Past Teaching</div>
+<ul class="course-list">
+
+  <li class="course-item">
+    <span class="course-title">Epistemology and Mind</span>
+    <span class="course-role">Grading Assistant</span>
+    <span class="course-inst">University Name</span>
+    <span class="course-meta">2024–2025</span>
+  </li>
+
+</ul>
+
