@@ -11,4 +11,4 @@ I am a postgrad research student in Philosophy at the University of Southampton.
 
 My supervisors are [Genia Schönbaumsfeld](https://geniaschonbaumsfeld.academia.edu/) and [Will McNeill](https://philpeople.org/profiles/william-e-s-mcneill). 
 
-Since 2019 I am an editorial assistant in the _Nordic Wittgenstein Review_.
+I have been an editorial assistant in the _Nordic Wittgenstein Review_ since 2019.
