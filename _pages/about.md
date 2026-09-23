@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Philosophy postgraduate research student at the University of Southampton. My PhD is on the relation between psychological language and machine behaviour. My supervisors are [Genia Schönbaumsfeld](https://geniaschonbaumsfeld.academia.edu/) and [Will McNeill](https://philpeople.org/profiles/william-e-s-mcneill). I have been an editorial assistant in the _Nordic Wittgenstein Review_ since 2019.
+I am a Philosophy postgraduate research student at the University of Southampton. My PhD is on the relation between psychological language and machine behaviour. My supervisors are [Genia Schönbaumsfeld](https://geniaschonbaumsfeld.academia.edu/) and [Will McNeill](https://philpeople.org/profiles/william-e-s-mcneill). I am an editorial assistant in the _Nordic Wittgenstein Review_.
 
 
 > It stands to reason that the philosophy of mind and language is first philosophy.
