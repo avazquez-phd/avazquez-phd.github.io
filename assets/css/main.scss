@@ -38,10 +38,11 @@
     "layout/json_cv"
 ;
 
-/* Apply Times New Roman to all text, but completely ignore anything related to icons */
-*:not(i):not(.fa):not(.fas):not(.far):not(.fab):not([class^="fa-"]):not([class*=" fa-"]) {
+/* Universal override to force Times New Roman on absolutely every element */
+*, *::before, *::after {
   font-family: "Times New Roman", Times, Georgia, serif !important;
 }
+
 
 
 
