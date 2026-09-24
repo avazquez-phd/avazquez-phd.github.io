@@ -38,10 +38,13 @@
     "layout/json_cv"
 ;
 
-/* Universal override to force Times New Roman on absolutely every element */
-*, *::before, *::after {
+/* Force absolute site-wide font change including all nested elements */
+html, body, p, h1, h2, h3, h4, h5, h6, a, span, div, 
+.sidebar, .author-profile__name, .visible-links,
+.author-profile__links, .author-profile__links-item, .author-profile__links-item a, .author-profile__links-item span {
   font-family: "Times New Roman", Times, Georgia, serif !important;
 }
+
 
 
 
