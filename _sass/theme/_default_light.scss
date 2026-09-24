@@ -28,6 +28,10 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 :root {
+
+  font-family: "Times New Roman", Times, Georgia, serif;
+  --global-font-family: "Times New Roman", Times, Georgia, serif;
+  --header-font-family: "Times New Roman", Times, Georgia, serif;
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #fff;
     --global-footer-bg-color            : #f2f3f3;
