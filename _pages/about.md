@@ -13,4 +13,4 @@ I am a philosophy postgrad research student in Southampton. I'm reading for my P
 
 > It stands to reason that the philosophy of mind and language is first philosophy.
 
-Feel free to reach out if you want to read and discuss this literature.
+Feel free to reach out if you want to read and discuss this and related literature.
